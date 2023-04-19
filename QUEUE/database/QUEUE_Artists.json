@@ -1,0 +1,44 @@
+{
+    "dailies": {
+        "Vedanti": [
+            {
+                "status": "review", 
+                "daily_folder": "E:\\veda-mobile\\documents", 
+                "name": "rbhanuse", 
+                "no": "01"
+            }, 
+            {
+                "status": "review", 
+                "daily_folder": "C:\\ReviewSoftware", 
+                "name": "sameer", 
+                "no": "02"
+            }, 
+            {
+                "status": "review", 
+                "daily_folder": "C:\\ReviewSoftware\\QUEUE\\database", 
+                "name": "Chaya", 
+                "no": "03"
+            }
+        ], 
+        "rbhanuse": [
+            {
+                "status": "review", 
+                "daily_folder": "C:\\WINDOWS", 
+                "name": "ASHOK", 
+                "no": "01"
+            }, 
+            {
+                "status": "review", 
+                "daily_folder": "C:\\ReviewSoftware\\QUEUE\\sourceImages", 
+                "name": "SAROJ", 
+                "no": "02"
+            }, 
+            {
+                "status": "review", 
+                "daily_folder": "C:\\ReviewSoftware\\QUEUE\\database", 
+                "name": "Vrushali", 
+                "no": "03"
+            }
+        ]
+    }
+}
